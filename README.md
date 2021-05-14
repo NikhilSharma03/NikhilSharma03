@@ -4,7 +4,7 @@ I am a graduate student and i have a passion for web development. I love explori
 <br/>
 <br/>
   
-### 🧐 About Me:
+## 🧐 About Me:
 - 🌱 &nbsp; I’m currently learning Django; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
@@ -14,7 +14,7 @@ I am a graduate student and i have a passion for web development. I love explori
 <br>
 <br>
 
-**Languages and Tools:**
+## 💻 Languages and Tools:*
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
