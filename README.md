@@ -11,11 +11,10 @@ I am a graduate student and i have a passion for web development. I love explori
 - 📫 &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
 - 📝 &nbsp; Checkout my [Portfolio Website](https://nikhilsharma-portfolio.web.app/)
 - 📚 &nbsp; I love to watching anime and travelling.  
-<br>
-<br>
+<br/>
+<br/>
 
 ## 💻 Languages and Tools
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -27,3 +26,5 @@ I am a graduate student and i have a passion for web development. I love explori
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<br/>
+<br/>
