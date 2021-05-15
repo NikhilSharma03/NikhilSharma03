@@ -5,7 +5,7 @@ I am a graduate student and i have a passion for web development. I love explori
 <br/>
   
 ## 🧐 About Me
-- 🌱 &nbsp; I’m currently learning Django; 
+- 🌱 &nbsp; I’m currently learning GraphQL; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
 - 📫 &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
