@@ -29,7 +29,6 @@ I am a graduate student and i have a passion for web development. I love explori
 <br />
 <br />
 <br />
-<br />
 
 
 ## 💻 Top Languages:
