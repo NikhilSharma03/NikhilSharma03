@@ -31,6 +31,15 @@ I am a graduate student and i have a passion for web development. I love explori
 <br />
 
 
+## 📚 GitHub Stats:
+
+![Nikhil's stats](https://github-readme-stats.vercel.app/api?username=nikhilsharma03&count_private=true&show_icons=true&theme=radical)
+<br />
+<br />
+<br />
+<br />
+
+
 ## 💻 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical)
