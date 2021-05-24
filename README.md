@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/main/images/banner.png)
+![](https://github.com/NikhilSharma03/NikhilSharma03/blob/main/images/banner.png)
 
 ## Hey 👋, I'm Nikhil Sharma!
 
