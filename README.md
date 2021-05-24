@@ -41,7 +41,6 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&theme=radical" width="45%" >
 <br />
-<br />
 
 ## 💻 Top Languages:
 
