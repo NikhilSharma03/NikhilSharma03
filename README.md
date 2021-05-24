@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/main/images/banner.png)
+
 ## Hey 👋, I'm Nikhil Sharma!
 
 I am a graduate student and i have a passion for web development. I love exploring new tech stack 💻 and use them to build cool projects 🛠️. 
