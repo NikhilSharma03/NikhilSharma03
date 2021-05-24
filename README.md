@@ -10,14 +10,11 @@ I am a graduate student and i have a passion for web development. I love explori
 - 🌱 &nbsp; I’m currently learning GraphQL; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
-- 📫 &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
-- 📝 &nbsp; Checkout my [Portfolio Website](https://nikhilsharma-portfolio.web.app/)
-- 📚 &nbsp; I love to watching anime and travelling.  
+- 📚 &nbsp; I love watching anime and travelling;  
+- ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 <br/>
 
-## 📫 Social Hangouts
 
-<br/>
 
 ## 💻 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -47,5 +44,11 @@ I am a graduate student and i have a passion for web development. I love explori
 ## 💻 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical)
+<br/>
+
+## 📫 Social Hangouts
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nikhilsharma-portfolio.web.app/)
 
 
+<br/>
