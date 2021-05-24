@@ -17,7 +17,7 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 
 
 ## 💻 Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -27,7 +27,21 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" -->
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/go.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logoreact.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/vs.png?raw=true" height="60" width="60">
+
 <br />
 <br />
 <br />
