@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sharma!</h1>
 
+<br/>
 <p align="center">I am a graduate student 📚 with a passion for web development ❤️. I love exploring new tech stack 💻 and use them to build cool projects 🛠️.</p>
 <br/>
 
 <div align="center">
-<br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
 [<img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/NikhilSharma03)
@@ -14,7 +14,6 @@
 
 </div> 
 <br/>
-
 
 ## 🧐 About Me
 - 🌱 &nbsp; I’m currently learning GraphQL; 
