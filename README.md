@@ -2,7 +2,7 @@
 
 ## Hey 👋, I'm Nikhil Sharma!
 
-I am a graduate student and i have a passion for web development. I love exploring new tech stack 💻 and use them to build cool projects 🛠️. 
+I am a graduate student 📚.I have a passion for web development ❤️. I love exploring new tech stack 💻 and use them to build cool projects 🛠️. 
 <br/>
 <br/>
   
