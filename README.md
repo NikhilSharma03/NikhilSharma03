@@ -37,9 +37,9 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 ## 📚 GitHub Stats:
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nikhilsharma03&show_icons=true&hideborder=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=nikhilsharma03&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&theme=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&hide_border=true&theme=radical" width="45%" >
 <br />
 
 ## 💻 Top Languages:
