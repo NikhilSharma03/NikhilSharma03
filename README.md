@@ -35,6 +35,7 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 
 
 ## 📚 GitHub Stats:
+
 <img  src="https://github-readme-stats.vercel.app/api?username=nikhilsharma03&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&theme=radical" width="45%" >
@@ -42,9 +43,13 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 <br />
 
 ## 💻 Top Languages:
+
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical)
+
 </div>
+
 <br/>
 
 ## 📫 Social Hangouts
