@@ -56,7 +56,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="30%" >
-  <img width="45%" align="right" alt="Mern" src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/images/mern.png" />
+  <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </div>
 
 <br/>
