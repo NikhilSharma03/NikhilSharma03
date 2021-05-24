@@ -4,8 +4,18 @@
 
 <p align="center">I am a graduate student 📚 with a passion for web development ❤️. I love exploring new tech stack 💻 and use them to build cool projects 🛠️.</p>
 <br/>
+
+<div align="center">
 <br/>
-  
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
+[<img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/NikhilSharma03)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nikhilsharma-portfolio.web.app/)
+
+</div> 
+<br/>
+
+
 ## 🧐 About Me
 - 🌱 &nbsp; I’m currently learning GraphQL; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
@@ -61,13 +71,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br/>
 
-## 📫 Social Hangouts
 
-<div align="center">
-<br/>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
-[<img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/NikhilSharma03)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nikhilsharma-portfolio.web.app/)
-
-</div> 
