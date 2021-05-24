@@ -29,13 +29,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
-<br>
+<br />
+<br />
 
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/react.png?raw=true" height="60" width="60">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/html.png?raw=true" height="60" width="60">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/terminal.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/github.png?raw=true" height="60" width="60">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/vs.png?raw=true" height="60" width="60">
 
