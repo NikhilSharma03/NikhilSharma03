@@ -27,10 +27,7 @@
 
 
 ## 💻 Languages and Tools:
-<!--
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" -->
+
 <div align="center">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/go.png?raw=true" height="60" width="60">
 <img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/python.png?raw=true" height="60" width="60">
@@ -61,7 +58,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&hide_border=true&theme=radical" width="45%" >
 <br />
 
-<img alt="https://activity-graph.herokuapp.com/graph?username=NikhilSharma03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<img src="https://activity-graph.herokuapp.com/graph?username=NikhilSharma03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
 ## 💻 Top Languages:
 
