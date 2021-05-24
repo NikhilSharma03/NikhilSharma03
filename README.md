@@ -46,7 +46,7 @@ I am a graduate student 📚 with a passion for web development ❤️. I love e
 
 <div align="center">
 
-  <img style="border: 1px solid black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="30%" >
+  <img style="border: 2px solid white;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="30%" >
   <img width="45%" align="right" alt="Mern" src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/images/mern.png" />
   
 </div>
