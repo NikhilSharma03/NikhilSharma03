@@ -63,7 +63,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="30%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="45%" >
   <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </div>
 
