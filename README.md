@@ -52,9 +52,9 @@
 ## 📚 GitHub Stats:
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nikhilsharma03&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=nikhilsharma03&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&hide_border=true&theme=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&hide_border=true&theme=tokyonight" width="45%" >
 <br />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=NikhilSharma03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
