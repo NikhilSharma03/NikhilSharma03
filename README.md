@@ -15,7 +15,7 @@
 <br/>
 
 ## 🧐 About Me
-- 🌱 &nbsp; I’m currently learning GoLang (Web Development); 
+- 🌱 &nbsp; I’m currently learning GoFiber; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
 - 📚 &nbsp; I love watching anime and travelling;  
