@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sharma!</h1>
 
-<h4 align="center">I am a graduate student 📚 with a passion for web development ❤️. I love exploring new tech stack 💻 and use them to build cool projects 🛠️.</h4>
+<h4 align="center">I am a graduate student 📚 with a passion for web development ❤️. I love exploring new tech stack 💻 and use them to build cool and innovative  projects 🛠️.</h4>
 <br/>
 
 <div align="center">
