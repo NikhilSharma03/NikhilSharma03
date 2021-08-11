@@ -21,8 +21,7 @@
 - 📚 &nbsp; I love watching anime and travelling;  
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
-
-  <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 
 
@@ -59,14 +58,5 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&hide_border=true&theme=tokyonight" width="45%" >
 <br />
 
-
-## 💻 Top Languages:
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="42%" >
-</div>
-
-<br/>
 
 
