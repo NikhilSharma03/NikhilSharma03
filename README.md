@@ -21,6 +21,7 @@
 - 📚 &nbsp; I love watching anime and travelling;  
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
+<br/>
 <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 
