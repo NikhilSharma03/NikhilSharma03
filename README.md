@@ -14,6 +14,9 @@
 </div> 
 <br/>
 
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ## 🧐 About Me
 - 🌱 &nbsp; I’m currently learning gRPC in Golang; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
@@ -21,7 +24,6 @@
 - 📚 &nbsp; I love watching anime and travelling;  
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## 💻 Languages and Tools:
 
