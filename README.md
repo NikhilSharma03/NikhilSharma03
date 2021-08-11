@@ -25,7 +25,6 @@
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
 <br/>
-<br/>
 
 ## 💻 Languages and Tools:
 
