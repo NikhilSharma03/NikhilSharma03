@@ -20,6 +20,9 @@
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
 - 📚 &nbsp; I love watching anime and travelling;  
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
+
+
+  <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 
 
@@ -62,7 +65,6 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSharma03&show_icons=true&theme=radical" width="42%" >
-  <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 <br/>
