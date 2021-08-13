@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sharma!</h1>
 
-<h4 align="center">I am a graduate student 📚 with a passion for web development ❤️. I love exploring new tech stack 💻 and use them to build cool and innovative  projects 🛠️.</h4>
+<h4 align="center">I am a graduate student 📚 with a passion for Development ❤️. I love exploring new technologies 💻 and use them to build cool and innovative  projects 🛠️.</h4>
 <br/>
 
 <div align="center">
@@ -21,7 +21,7 @@
 - 🌱 &nbsp; I’m currently learning gRPC in Golang; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories)
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
-- 📚 &nbsp; I love watching anime and travelling;  
+- 📚 &nbsp; I love to travel;  
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
 <br/>
