@@ -21,7 +21,6 @@
 - 🌱 &nbsp; I’m currently learning Docker and Kubernetes; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories);
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
-- 📚 &nbsp; I love to travel and watching anime;  
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
 <br/>
