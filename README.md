@@ -18,7 +18,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## 🧐 About Me
-- 🌱 &nbsp; I’m currently learning GCP and Rust; 
+- 🌱 &nbsp; I’m currently learning GCP and Blockchain; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories);
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
