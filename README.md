@@ -8,7 +8,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nikhilsharma-portfolio.web.app/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nikhilsharma03.github.io/Portfolio/)
 <img alt="followers" src="https://img.shields.io/github/followers/NikhilSharma03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   
 </div> 
