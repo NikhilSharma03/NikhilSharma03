@@ -21,7 +21,6 @@
 - 🌱 &nbsp; I’m currently learning Rust and Solana; 
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories);
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
-- ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
 <br/>
 
