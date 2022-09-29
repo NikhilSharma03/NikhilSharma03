@@ -2,7 +2,6 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sharma!</h1>
 
-<h4 align="center">I am a undergraduate student 📚 with a passion for Development ❤️. I love exploring new technologies 💻 and use them to build cool and innovative  projects 🛠️.</h4>
 <br/>
 
 <div align="center">
@@ -13,50 +12,4 @@
   
 </div> 
 <br/>
-
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-## 🧐 About Me
-- 🌱 &nbsp; I’m currently learning AWS; 
-- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories);
-- 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
-
-<br/>
-
-## 💻 Languages and Tools:
-
-<div align="center">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/go.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/sass.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
-<img src="https://img.icons8.com/color/452/kubernetes.png" height="60" width="60">
-
-<br />
-<br />
-
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/terminal.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/vs.png?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/docker.png" height="60" width="60">
-
-</div>
-<br />
-<br />
-
-## 📚 GitHub Stats:
-
-
-<img  src="https://github-readme-stats.vercel.app/api?username=nikhilsharma03&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma03&hide_border=true&theme=tokyonight" width="45%" >
-<br />
-
-
 
