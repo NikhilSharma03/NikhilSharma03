@@ -1,6 +1,6 @@
 ![](https://github.com/NikhilSharma03/NikhilSharma03/blob/main/images/banner.png)
 
-<h3 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sharma – a Software Developer with 2 years of experience, proficient in TypeScript, Go, Node.js, Nest.js, React, Docker, Terraform, GitHub Actions, and AWS.</h3>
+<h5 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sharma – a Software Developer with 2 years of experience, proficient in TypeScript, Go, Node.js, Nest.js, React, Docker, Terraform, GitHub Actions, and AWS.</h5>
 
 <br />
 
